@@ -18,8 +18,8 @@ The file tree will be
 
 C:\DTIQ\DTIQ-Snipeit-LDAPSync.exe
 
-            \Settings\Snipeit-sync.json
-            
+        \Settings\Snipeit-sync.json
+C:\Program Files\WindowsPowerShell\Modules\RestartServiceifstopped\RestartServiceifStopped.psm1
             
             
 ### Event Log IDS Located in DTIQ-Remoteman 
