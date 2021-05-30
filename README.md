@@ -24,7 +24,7 @@ C:\DTIQ\DTIQ-Snipeit-LDAPSync.exe
             
 ### Event Log IDS Located in DTIQ-Remoteman 
 
-EventID | 900 | Error 
+EventID | 900 | Error <br>
 DTIQ SnipeIT Ldap Sync Service has failed. IIS Service is not running. Trying to restart service.
 
 EventID | 901 | Success Audit 
