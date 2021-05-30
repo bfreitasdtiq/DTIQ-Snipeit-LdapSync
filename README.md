@@ -58,6 +58,6 @@ RestartServiceIfStopped $servicename
 
 
 
-### Event Log IDS Located in DTIQ-Remoteman 
+### Event Log Located in DTIQ-Remoteman 
 ![image](https://user-images.githubusercontent.com/46353568/120114429-07e76f00-c134-11eb-8d58-bbbfd03e95ad.png)
 
