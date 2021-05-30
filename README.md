@@ -1,7 +1,7 @@
 ### DTIQ-SnipeIT-LDAPSync
 
 
-This tool is used to clean Sync SnipeIT LDAP Via PHP.
+This tool is used to sync the SnipeIT User Database over LDAP Via PHP.
 
 It will run as a windows service on auto start. 
 
