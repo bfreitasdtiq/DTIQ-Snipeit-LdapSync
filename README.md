@@ -19,7 +19,21 @@ The file tree will be
 C:\DTIQ\DTIQ-Snipeit-LDAPSync.exe
 
             \Settings\Snipeit-sync.json
-    
+            
+            
+            
+### Event Log IDS
+
+EventID 900 Error DTIQ SnipeIT Ldap Sync Service has failed. IIS Service is not running. Trying to restart service.
+
+EventID 901 Success Audit Restart of IIS has completed and is now running.  
+
+EventID 902 Information DTIQ SnipeIT Ldap Sync Service has completed.
+
+
+            
+
+
 Compiled information
 EXE Compiled with Saipen PS Studio including Windows Service API to allow EXE to be compatible with Windows Service Manager.
 
