@@ -5,7 +5,7 @@ This tool is used to sync the SnipeIT User Database over LDAP Via PHP.
 
 It will run as a windows service on auto start. 
 
-Automated Process to sync Snipe IT on a Timed basis.
+It automates the process to sync Snipe IT on a timed basis.
 
 Default configuration file is set to one hour(In Seconds).
 
