@@ -37,7 +37,7 @@ function RestartServiceIfStopped([string]$service)
 				Write-EventLog -log DTIQ-Remoteman -source DTIQ -EntryType SuccessAudit -eventID 901 -Message "Restart of IIS has completed and is now running."
 				cd C:\inetpub\wwwroot\snipeit\
 				php artisan snipeit:ldap-sync
-				Write-EventLog -log DTIQ-Remoteman -source DTIQ -EntryType Information -eventID 901 -Message "DTIQ SnipeIT Ldap Sync Service has completed."
+				Write-EventLog -log DTIQ-Remoteman -source DTIQ -EntryType Information -eventID 902 -Message "DTIQ SnipeIT Ldap Sync Service has completed."
 				
 			}
 	}
