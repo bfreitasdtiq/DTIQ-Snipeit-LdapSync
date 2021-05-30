@@ -45,3 +45,14 @@ Installer will extract files into proper directories.
 It will also install the PSM1 function file to allow direct powershell command to be ran at anytime using:
 
 RestartServiceIfStopped $servicename
+
+
+
+
+
+### Service Details
+![image](https://user-images.githubusercontent.com/46353568/120114169-c2767200-c132-11eb-8beb-91b843f38c49.png)
+
+
+### Event Log IDS Located in DTIQ-Remoteman 
+![image](https://user-images.githubusercontent.com/46353568/120114228-fb164b80-c132-11eb-9599-a43e672c7801.png)
