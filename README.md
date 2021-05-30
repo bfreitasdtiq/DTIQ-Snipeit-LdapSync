@@ -34,7 +34,7 @@ EventID 902 Information DTIQ SnipeIT Ldap Sync Service has completed.
             
 
 
-Compiled information
+
 EXE Compiled with Saipen PS Studio including Windows Service API to allow EXE to be compatible with Windows Service Manager.
 
 ***Coming soon***
