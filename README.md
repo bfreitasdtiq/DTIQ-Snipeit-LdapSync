@@ -18,7 +18,7 @@ The file tree will be
 
 C:\DTIQ\DTIQ-Snipeit-LDAPSync.exe
 
-    \Settings\Snipeit-sync.json
+            \Settings\Snipeit-sync.json
     
 Compiled information
 EXE Compiled with Saipen PS Studio including Windows Service API to allow EXE to be compatible with Windows Service Manager.
