@@ -40,9 +40,9 @@ DTIQ SnipeIT Ldap Sync Service has completed.
 
 EXE Compiled with Saipen PS Studio including Windows Service API to allow EXE to be compatible with Windows Service Manager.
 
-***Coming soon***
+***Windows Installer***
 
-Installer Complied with Advanced Installer 18.0 - Signed with DTIQ Cert.
+Installer Complied with Advanced Installer 18.0 
 
 Installer will extract files into proper directories.
 It will also install the PSM1 function file to allow direct powershell command to be ran at anytime using:
