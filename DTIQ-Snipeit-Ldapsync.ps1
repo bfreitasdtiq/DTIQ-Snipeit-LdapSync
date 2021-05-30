@@ -10,9 +10,9 @@
 	.DESCRIPTION
 		Automated Process to sync Snipe IT on a hourly basis. Application built as a Service including Windows Services API
 		Ensure the Event Viewer Log has been created. See DTIQ-Remoteman.ps1 to prep any machine
-		Service Creation on  next line. Run as Admin VIA CMD:
-#sc create "DTIQ-Snipeit-LDAPSYNC" Displayname= "DTIQ-Snipeit-LDAPSYNC" binpath= "C:\DTIQ\Dtiq-Snipeit-LDAPSYNC.exe" start= auto 
-
+		Manual Service Creation Use the next two lines. Run as Admin VIA CMD:
+#sc create "DTIQ-Snipeit-LDAPSYNC" Displayname= "DTIQ-Snipeit-LDAPSYNC" binpath= "C:\DTIQ\Dtiq-Snipeit-LDAPSYNC.exe" start= auto
+#sc description DTIQ-SnipeITLdapSync "Used to sync SnipeIT users from Active directory. Created by Bfreitas@dtiq.com"
 
 #>
 
