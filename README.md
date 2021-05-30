@@ -3,7 +3,9 @@
 
 This tool is used to clean Sync SnipeIT LDAP Via PHP.
 It will run as a windows service on auto start. 
-The JSON config file specifys the service name and time between syncs. Default configuration file is set to one hour.
+Automated Process to sync Snipe IT on a Timed basis.
+Default configuration file is set to one hour(In Seconds).
+The JSON config file specifys the service name and time between syncs. 
 .
 
 
