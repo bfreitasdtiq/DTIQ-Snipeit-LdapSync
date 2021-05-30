@@ -17,6 +17,7 @@ Compiled information
 EXE Compiled with Saipen PS Studio including Windows Service API to allow EXE to be compatible with Windows Service Manager.
 
 ***Coming soon***
+
 Installer Complied with Advanced Installer 18.0 - Signed with DTIQ Cert.
 
 Installer will extract files into proper directories.
