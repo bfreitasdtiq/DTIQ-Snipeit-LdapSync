@@ -16,6 +16,8 @@
 
 #>
 
+#Module Import
+Import-module -name restartserviceifstopped
 
 #JSON CONFIG READ
 $SettingsLDapSync = Get-Content -Path 'C:\dtiq\settings\Snipeit-sync.json' | ConvertFrom-Json
