@@ -9,7 +9,7 @@ Automated Process to sync Snipe IT on a Timed basis.
 
 Default configuration file is set to one hour(In Seconds).
 
-The JSON config file specifys the service name and time between syncs. 
+The JSON config file specifies the service name and time between syncs. 
 
 .
 
