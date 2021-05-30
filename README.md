@@ -27,10 +27,10 @@ C:\DTIQ\DTIQ-Snipeit-LDAPSync.exe
 EventID | 900 | Error <br>
 DTIQ SnipeIT Ldap Sync Service has failed. IIS Service is not running. Trying to restart service.
 
-EventID | 901 | Success Audit 
+EventID | 901 | Success Audit <br>
 Restart of IIS has completed and is now running.  
 
-EventID | 902 | Information
+EventID | 902 | Information<br>
 DTIQ SnipeIT Ldap Sync Service has completed.
 
 
